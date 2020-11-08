@@ -18,7 +18,7 @@ body {
 
 .header_menu ul li {
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 25px;
   margin-top: 20px;
 }
 
@@ -30,5 +30,9 @@ body {
   font-size: 14px;
   line-height: 20px;
   padding: 10px 0;
+}
+
+.header_menu ul li a:hover {
+  color: #fff;
 }
 /*==Introdução==*/
