@@ -1,5 +1,26 @@
 /*==Estilos Gerais==*/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 /*==Header==*/
+.header {
+  position: fixed; /*para não mexer quando estivermos a fazer o scrooll da página*/
+  top: 0;
+  width: 100%;
+  background: #fec63e;
+  padding: 15px 0;
+}
 
+.header_menu {
+  text-align: right;
+}
+
+.header_menu ul li {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.header_menu ul li a {
+}
 /*==Introdução==*/
