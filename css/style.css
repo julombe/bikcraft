@@ -9,6 +9,18 @@ p {
   line-height: 20px;
 }
 
+/*==configuração padrão para todos botões==*/
+.btn {
+  border: 3px solid #fec63e;
+  padding: 10px 30px;
+  color: #fec63e;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
 /*==Header==*/
 .header {
   position: fixed; /*para não mexer quando estivermos a fazer o scrooll da página*/
