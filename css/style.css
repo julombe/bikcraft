@@ -71,6 +71,18 @@ p {
   font-style: italic;
 }
 
+/*estilização da barra separadora*/
+
+.quote-externo p::before,
+.quote-externo p::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+  margin: 14px auto 10px auto;
+}
+
 .quote-externo cite {
   font-style: normal;
   font-weight: bold;
