@@ -21,6 +21,11 @@ p {
   letter-spacing: 0.1em;
 }
 
+.btn:hover {
+  color: #fff;
+  border-color: #fff;
+}
+
 /*==Header==*/
 .header {
   position: fixed; /*para não mexer quando estivermos a fazer o scrooll da página*/
@@ -76,6 +81,7 @@ p {
 .quote-externo {
   max-width: 320px;
   margin: 0 auto;
+  margin-bottom: 40px;
   color: white;
 }
 
