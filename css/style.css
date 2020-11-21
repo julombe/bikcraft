@@ -3,6 +3,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
 /*==Header==*/
 .header {
   position: fixed; /*para não mexer quando estivermos a fazer o scrooll da página*/
@@ -53,4 +59,21 @@ body {
   color: #fff;
   font-weight: bold;
   text-transform: uppercase;
+}
+
+.quote-externo {
+  max-width: 320px;
+  margin: 0 auto;
+  color: white;
+}
+
+.quote-externo p {
+  font-style: italic;
+}
+
+.quote-externo cite {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.1em;
 }
