@@ -26,6 +26,26 @@ p {
   border-color: #fff;
 }
 
+/*==configuração padrão para os subtítulos==*/
+.subtitulo {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subtitulo::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #000;
+  margin: 14px auto 10px auto;
+}
+
 /*==Header==*/
 .header {
   position: fixed; /*para não mexer quando estivermos a fazer o scrooll da página*/
@@ -58,8 +78,8 @@ p {
 .header_menu ul li a:hover {
   color: #fff;
 }
-/*==Introdução==*/
 
+/*==Introdução==*/
 .introducao {
   width: 100%;
   height: 380px;
@@ -90,7 +110,6 @@ p {
 }
 
 /*estilização da barra separadora*/
-
 .quote-externo p::before,
 .quote-externo p::after {
   content: "";
@@ -106,4 +125,10 @@ p {
   font-weight: bold;
   font-size: 14px;
   letter-spacing: 0.1em;
+}
+
+/*==Estilização Produtos==*/
+
+.produtos {
+  padding: 60px 0;
 }
