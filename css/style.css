@@ -132,3 +132,21 @@ p {
 .produtos {
   padding: 60px 0;
 }
+
+.produtos_lista li {
+  background: #fec63e;
+}
+
+.produtos_lista li h3 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.produtos_icone {
+  background: #000;
+  padding: 20px;
+  text-align: center;
+}
