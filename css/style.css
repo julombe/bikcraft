@@ -26,6 +26,11 @@ p {
   border-color: #fff;
 }
 
+.btn.btn-preto:hover {
+  color: #000;
+  border-color: #000;
+}
+
 /*==configuração padrão para os subtítulos==*/
 .subtitulo {
   font-size: 24px;
