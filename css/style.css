@@ -135,6 +135,7 @@ p {
 
 .produtos_lista li {
   background: #fec63e;
+  text-align: center;
 }
 
 .produtos_lista li h3 {
@@ -148,5 +149,4 @@ p {
 .produtos_icone {
   background: #000;
   padding: 20px;
-  text-align: center;
 }
