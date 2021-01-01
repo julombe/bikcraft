@@ -197,3 +197,7 @@ p {
 .portfolio .subtitulo::after {
   background: #fec63c;
 }
+
+.portfolio_lista li:last-child {
+  margin-top: 20px;
+}
