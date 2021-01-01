@@ -193,3 +193,7 @@ p {
 .portfolio .subtitulo {
   color: #fec63e;
 }
+
+.portfolio .subtitulo::after {
+  background: #fec63c;
+}
