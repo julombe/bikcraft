@@ -201,3 +201,7 @@ p {
 .portfolio_lista li:last-child {
   margin-top: 20px;
 }
+
+.portfolio .call p {
+  color: #fff;
+}
