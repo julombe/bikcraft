@@ -224,6 +224,7 @@ img {
   position: absolute;
   top: 209px;
   right: 162px;
+  z-index: -1; /*fará com que fique por trás*/
 }
 
 .qualidade_lista {
