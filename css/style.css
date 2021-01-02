@@ -215,6 +215,21 @@ img {
   padding: 60px 0;
 }
 
+.qualidade::after {
+  content: "";
+  width: 634px;
+  height: 83px;
+  display: block;
+  background: url("../img/linhas.svg") no-repeat center;
+  position: absolute;
+  top: 209px;
+  right: 162px;
+}
+
+.qualidade_lista {
+  margin-top: 20px;
+}
+
 .qualidade img {
   margin: 0 auto;
 }
