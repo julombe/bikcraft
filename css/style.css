@@ -211,10 +211,15 @@ img {
 }
 
 /*Qualidade*/
-.qualidade_container {
+.qualidade {
   padding: 60px 0;
 }
 
-.qualidade_container img {
+.qualidade img {
   margin: 0 auto;
+}
+
+.qualidade_lista li {
+  text-align: center;
+  padding: 0 40px;
 }
