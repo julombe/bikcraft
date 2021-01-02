@@ -211,3 +211,10 @@ img {
 }
 
 /*Qualidade*/
+.qualidade_container {
+  padding: 60px 0;
+}
+
+.qualidade_container img {
+  margin: 0 auto;
+}
