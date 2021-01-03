@@ -58,17 +58,13 @@ Projeto desenvolvido durante o curso Web Design Completo oferecida pela [Origami
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem acessar aa plataforma web enviando:
-  - [x] uma imagem do ponto de coleta
-  - [x] nome da entidade, email e whatsapp
+- [x] Empresas ou entidades podem acessar a plataforma web e solicitar:
+  - [x] um orçamento sobre os produtos oferecidos
+  - [x] escolher um dos produtos oferecidos
   - [x] e o endereço para que ele possa aparecer no mapa
-  - [x] além de selecionar um ou mais ítens de coleta: 
-    - lâmpadas
-    - pilhas e baterias
-    - papéis e papelão
-    - resíduos eletrônicos
-    - resíduos orgânicos
-    - óleo de cozinha
+  - [x] além de selecionar um ou mais ítens: 
+    - bicicletas retro
+    - bicicletas de passeio
 
 ---
 
@@ -102,11 +98,10 @@ O layout da aplicação está disponível no Figma:
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
-3. Mobile (pasta mobile)
+1. Backend
+2. Frontend
 
-💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
+💡O Frontend precisa que o Backend esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
