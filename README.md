@@ -4,7 +4,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
 
-  <a href="https://www.twitter.com/tgmarinho/">
+  <a href="https://twitter.com/jose_ulombe">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
   </a>
   
