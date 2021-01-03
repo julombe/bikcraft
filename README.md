@@ -32,7 +32,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧  Ecoleta ♻️ Concluído 🚀 🚧
+	🚧  Bikcraft ♻️ Concluído 🚀 🚧
 </h4>
 
 <p align="center">
