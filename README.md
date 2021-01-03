@@ -4,9 +4,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/README-ecoleta">
 
-  <a href="https://twitter.com/jose_ulombe">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2FREADME-ecoleta">
-  </a>
   
 
     
@@ -40,7 +37,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️ Bikcraft - é uma forma de conectar empresas e entidades que procuram por bicicletas.
 
 
 Projeto desenvolvido durante o curso Web Design Completo oferecida pela [Origamid](https://www.origamid.com/cursos/).
