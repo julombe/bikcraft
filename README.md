@@ -65,14 +65,6 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-### Mobile
-
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
-</p>
-
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
