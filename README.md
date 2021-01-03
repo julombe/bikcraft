@@ -53,13 +53,12 @@
 
 
 Projeto desenvolvido durante o curso Web Design Completo oferecida pela [Origamid](https://www.origamid.com/cursos/).
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Empresas ou entidades podem se cadastrar na plataforma web enviando:
+- [x] Empresas ou entidades podem acessar aa plataforma web enviando:
   - [x] uma imagem do ponto de coleta
   - [x] nome da entidade, email e whatsapp
   - [x] e o endereço para que ele possa aparecer no mapa
@@ -70,10 +69,6 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
     - resíduos eletrônicos
     - resíduos orgânicos
     - óleo de cozinha
-
-- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
-  - [x] navegar pelo mapa para ver as instituições cadastradas
-  - [x] entrar em contato com a entidade através do E-mail ou do WhatsApp
 
 ---
 
