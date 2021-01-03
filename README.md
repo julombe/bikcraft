@@ -6,14 +6,6 @@
 
   
 
-    
-   
-
- 
-  
- 
-  
- 
 </p>
 <h1 align="center">
     <img alt="Bikcraft" title="#Bikcraft" src="./assets/banner.png" />
