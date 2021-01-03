@@ -78,7 +78,7 @@ O layout da aplicação está disponível no Figma:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
+  <img alt="Bikcraft" title="#Bikcraft" src="./img/portfolio/passeio.jpg" width="400px">
 </p>
 
 ---
