@@ -116,6 +116,9 @@ $ npm  start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+- [x] HTML
+- [x] CSS
+
 
 
 ---
