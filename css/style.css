@@ -298,3 +298,9 @@ img {
 .footer_historia {
   padding-right: 40px;
 }
+
+.footer_contacto ul li {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+}
