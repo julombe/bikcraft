@@ -304,3 +304,14 @@ img {
   line-height: 20px;
   font-family: Georgia, "Times New Roman", serif;
 }
+
+.footer_redes ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer_redes ul li a {
+  border: 3px solid #fec63e;
+  display: block;
+  padding: 10px;
+}
