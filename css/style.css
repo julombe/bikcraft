@@ -278,7 +278,7 @@ img {
 }
 
 .footer h3 {
-  font-size: 18px;
+  font-size: 1.1em; /*18px*/
   line-height: 25px;
   color: #fec63e;
   text-transform: uppercase;
