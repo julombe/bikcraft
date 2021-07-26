@@ -138,6 +138,12 @@ img {
   letter-spacing: 0.1em;
 }
 
+/*==Introdução Interna==*/
+
+.introducao-interna {
+  width: 200px;
+}
+
 /*==Estilização Produtos==*/
 
 .produtos {
